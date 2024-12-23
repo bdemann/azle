@@ -11,7 +11,7 @@ ic-cdk = "0.12.2"
 ic-cdk-macros = "0.8.4"
 ic-cdk-timers = "0.6.0"
 ic-stable-structures = "0.6.5"
-anyhow = "1.0.86"
+anyhow = "1.0.95"
 
 [dev-dependencies]
 proptest = "1.4.0"
